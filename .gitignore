@@ -1,0 +1,5 @@
+# Files and folders that are not tracked
+
+# Jupyter
+*/.ipynb_checkpoints/*
+.ipynb_checkpoints
